@@ -38,6 +38,6 @@
 
 
 # Решение:
-[Задание 1](https://github.com/artmaxst/Homework/blob/main/1.3(1).pdf)
+[Задание 1](https://github.com/artmaxst/Jobs/blob/main/1.3(1).pdf)
 
-[Задание 2](https://github.com/artmaxst/Homework/blob/main/1.3(2).pdf)
+[Задание 2](https://github.com/artmaxst/Jobs/blob/main/1.3(2).pdf)
